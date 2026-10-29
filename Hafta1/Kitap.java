@@ -1,9 +1,5 @@
 package com.Hafta1;
 
-/**
- *
- * @author BURAK
- */
 public class Kitap {
 
     String kitapAdi;
